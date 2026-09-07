@@ -1,1 +1,1 @@
-# spskladno-vyuka-
+# spskladno-vyuka
