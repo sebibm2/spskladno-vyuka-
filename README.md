@@ -39,8 +39,8 @@ Otevři příkazovou paletu (`Ctrl + Shift + P`) → zadej **"Open User Settings
 Otevři terminál **Git Bash Portable** (v dolní liště VS Code vyber profil terminálu - vedle pluska malý zobáček dolů) a zadej:
 
 ```bash
-git config --global user.email "tvuj@email.cz"
-git config --global user.name "TvujNick"
+git config --global user.email "sebibm2@gmail.com"
+git config --global user.name "sebibm2"
 git config --global credential.helper store
 ```
 
